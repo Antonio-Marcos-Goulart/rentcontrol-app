@@ -22,7 +22,7 @@ A ideia central é simples: tirar do papel e das planilhas o controle de proprie
 
 ### Origem
 
-O RentControl nasceu como ideia de TCC e foi sendo moldado ao longo do desenvolvimento até se tornar um projeto com ambição real: um sistema por assinatura (SaaS) voltado para quem administra imóveis no dia a dia. O que começou como trabalho acadêmico virou produto em construção.
+O RentControl nasceu como ideia de TCC e foi sendo moldado ao longo do desenvolvimento até se tornar um projeto com ambição real: um sistema por assinatura (SaaS) voltado para quem administra imóveis no dia a dia. O que começou como trabalho acadêmico está virando um produto em construção.
 
 ### O problema que resolve
 
@@ -91,7 +91,7 @@ The core idea is simple: move the control of owners, tenants, contracts, and pay
 
 ### Origin
 
-RentControl started as a college thesis idea and was shaped throughout development into a project with real ambition: a subscription-based system (SaaS) for people who manage rental properties day to day. What began as academic work became a product in progress.
+RentControl started as a college thesis idea and was shaped throughout development into a project with real ambition: a subscription-based system (SaaS) for people who manage rental properties day to day. What began as academic work is becoming a product in progress.
 
 ### The problem it solves
 
