@@ -2,6 +2,10 @@
 
 > 🇧🇷 [Português](#português) | 🇺🇸 [English](#english)
 
+<p align="center">
+  <img src="assets/img/dashboard-mockup.png" alt="RentControl dashboard no desktop e no celular" width="90%">
+</p>
+
 ---
 
 <a name="português"></a>
